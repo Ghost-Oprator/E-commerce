@@ -13,19 +13,19 @@ const ShoeInfoSection = () => {
     },
     {
       imgSrc:
-        "https://sneakerank-store-newdemo.myshopify.com/cdn/shop/collections/image_298.jpg?v=1715068565&width=642",
-      altText: "Formal Shoes Image",
-      title: "Formal Shoes",
+        "https://content.jdmagicbox.com/comp/noida/x5/011pxx11.xx11.200922171935.n5x5/catalogue/maa-bhagwati-furniture-noida-d83in9w9gj.jpg",
+      altText: "Furniture",
+      title: "Furniture",
       description:
-        "Elegant and sophisticated shoes perfect for any formal occasion.",
+        "Elegant and sophisticated Furniture for home decoration. ",
     },
     {
       imgSrc:
-        "https://sneakerank-store-newdemo.myshopify.com/cdn/shop/collections/image_301.jpg?v=1715068567&width=635",
-      altText: "Sandals Image",
-      title: "Sandals",
+        "https://i.pcmag.com/imagery/roundups/02BY7N9WahuHYvwm1eBbW7I-41..v1688582646.jpg",
+      altText: "laptops",
+      title: "Laptops",
       description:
-        "Lightweight and breathable sandals for casual wear.",
+        " Laptops include a built-in webcam and microphone, and many also have touchscreens.",
     },
   ];
 

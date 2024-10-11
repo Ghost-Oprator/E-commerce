@@ -11,11 +11,12 @@ const AboutNew = () => {
           <div className="about-text-new">
             <h1>About Us</h1>
             <p>
-              Welcome to SNEAKERHEAD, the ultimate destination for sneaker enthusiasts! We're a team of passionate sneakerheads dedicated to bringing you the latest and greatest kicks straight to your doorstep. Our mission is simple: to provide a seamless and hassle-free online shopping experience, allowing you to focus on what matters most - adding to your sneaker collection. With a curated selection of the most sought-after sneakers from top brands, we're committed to delivering authenticity, quality, and style to every corner of the globe. Whether you're a seasoned collector or just starting your sneaker journey, we've got you covered. So why wait? Lace up and join the sneaker revolution with us!
+            ShopSphere is more than just an e-commerce platform; it's a vibrant marketplace where enthusiasts and shoppers unite over shared passions. Designed to cater to a diverse range of interests, from fashion aficionados to tech enthusiasts, home decorators, fitness buffs, and beyond, ShopSphere offers an all-inclusive shopping experience that connects buyers with products that align with their unique tastes and preferences.Whether you’re hunting for the latest fashion trends, state-of-the-art electronics, or artisanal home décor, ShopSphere is designed to help you find exactly what you’re looking for—and more.ShopSphere is where passion meets purchase. We’re dedicated to helping you discover products that enhance your lifestyle, all while offering a seamless, enjoyable, and secure shopping experience.
+            
             </p>
           </div>
           <div className="about-image-new">
-            <img src="https://sneakerank-store-newdemo.myshopify.com/cdn/shop/collections/image_299.jpg?v=1715068566&width=635" alt="Sneaker Collection" />
+            <img src="https://whidegroup.com/wp-content/uploads/cover-ecommerce-features-large-new.webp" />
           </div>
         </div>
       </div>

@@ -12,8 +12,8 @@ const Footer = () => {
     <footer className="footer-container">
       <div className="footer-top">
         <div className="footer-section">
-          <h2>Sneakerhead</h2>
-          <p>A sneakerhead web page: where enthusiasts unite over sneakers.</p>
+          <h2>ShopSphere</h2>
+          <p>A ShopSphere web page: where enthusiasts unite over shared passions .</p>
           <input type="email" placeholder="Your email address..." />
           <button type="submit"><CiMail /></button>
           <div className="social-icons">
@@ -58,7 +58,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>© Copyright 2024 | Sneakerank By ShopiLaunch. Powered by Shopify.</p>
+        <p>© Copyright 2024 | ShopSphere By ShopiLaunch. Powered by Shopify.</p>
         <div className="payment-icons">
           <FaCcVisa />
           <FaCcMastercard />

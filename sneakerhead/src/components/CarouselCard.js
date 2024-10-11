@@ -7,12 +7,13 @@ const CarouselCard = () => {
 
   const imageSets = {
     1: [
-      'https://sneakerank-store-newdemo.myshopify.com/cdn/shop/files/image_262.jpg?v=1715327085&width=1425',
-      'https://sneakerank-store-newdemo.myshopify.com/cdn/shop/files/image_263.jpg?v=1715327088&width=1425',
+      'https://deerdesigner.com/wp-content/uploads/2024/05/Article-34-ecommerce-design-01.png',
+      'https://static.iroidtechnologies.com/static/home/images/service/section-images/244312272-E-commerce-development-_1_.webp',
     ],
     2: [
-      'https://sneakerank-store-newdemo.myshopify.com/cdn/shop/files/1.png?v=1717490452&width=1425',
-      'https://sneakerank-store-newdemo.myshopify.com/cdn/shop/files/2.png?v=1717490452&width=1425',
+      'https://deerdesigner.com/wp-content/uploads/2024/05/Article-34-ecommerce-design-01.png',
+      'https://static.iroidtechnologies.com/static/home/images/service/section-images/244312272-E-commerce-development-_1_.webp',
+      
     ],
   };
 
@@ -61,7 +62,7 @@ const CarouselCard = () => {
           />
         </div>
         {/* Centered text for the entire card */}
-        <div className="centered-text">Sneakerhead</div>
+        <div className="centered-text">ShopSphere</div>
       </div>
       <div className="dot-container">
         <span
