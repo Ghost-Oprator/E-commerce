@@ -597,7 +597,7 @@ const shoes = [
     name: "customised wallet for men",
     price: 799,
     img: "https://images.meesho.com/images/products/321602137/swygf_512.webp",
-<<<<<<< HEAD
+
   },
   {
     id: 101,
@@ -618,9 +618,6 @@ const shoes = [
     img: "https://images.meesho.com/images/products/407547929/7bd5c_400.webp",
   },
 
-=======
-  }
->>>>>>> 92ab042298bf612f371538ca3c7ed1fab54c9ec5
 ];
 const Shop = ({ addToCart, addToWishlist, user, wishlist }) => {
   const navigate = useNavigate(); // Initialize useNavigate

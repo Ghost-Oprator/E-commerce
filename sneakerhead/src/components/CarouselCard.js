@@ -62,7 +62,7 @@ const CarouselCard = () => {
           />
         </div>
         {/* Centered text for the entire card */}
-        <div className="centered-text">ShopSphere</div>
+        <div className="centered-text">DailyNeeds</div>
       </div>
       <div className="dot-container">
         <span
