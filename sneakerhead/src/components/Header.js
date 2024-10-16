@@ -10,7 +10,7 @@ const Header = ({ cartQuantity, wishlist , user }) => {
   return (
     <header className="header-container">
       <div className="logo">
-        <Link to="/"><img src="/shopspherelogo.png" alt="Shopspherelogo"/></Link>
+        <Link to="/"><img src="/dailyneedslogo.png" alt="dailyneedslogo"/></Link>
       </div>
       <nav className="nav-links">
         <Link to="/">Home</Link>
