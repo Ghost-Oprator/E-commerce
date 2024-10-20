@@ -21,21 +21,21 @@ const HeroSection = () => {
       <Slider {...settings}>
         <div>
           <img 
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXM9F_zbQAyu4MOLND2Io_SZP36zIo60Br3w&s" 
+            src="https://prod-img.thesouledstore.com/public/theSoul/uploads/themes/4851820240719121114.jpg?format=webp&w=1500&dpr=1.3" 
             alt="Slide 1" 
             className="carousel-image"
           />
         </div>
         <div>
           <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Laptop_collage.jpg/800px-Laptop_collage.jpg" 
+            src="https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/homepage_JL.jpg?format=webp&w=1500&dpr=1.3" 
             alt="Slide 2" 
             className="carousel-image"
           />
         </div>
         <div>
           <img 
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dAHs-fViSmLFkOXnAhwaF6F9sbYF5LWqoA&" 
+            src="https://prod-img.thesouledstore.com/public/theSoul/uploads/themes/4851820240719121114.jpg?format=webp&w=1500&dpr=1.3" 
             alt="Slide 3" 
             className="carousel-image"
           />

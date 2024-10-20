@@ -13,7 +13,7 @@ const ArticlesSection = () => {
         <div className="article-content">
           <h3>The Neighbourhood Store Vibe</h3>
           <p>
-          One of the key aspects that sets ShopSphere apart is its focus on creating a personal and customized shopping journey for each customer. From the moment you arrive on the site, it feels as though you’ve stepped into a local shop with a knowledgeable owner who understands your tastes and needs. The website offers curated collections based on your interests, purchase history, and browsing patterns, ensuring that you discover products that are relevant and meaningful to you. This is much like the way a neighborhood shopkeeper would recommend items they know you’ll love based on previous conversations.
+          One of the key aspects that sets DailyNeeds apart is its focus on creating a personal and customized shopping journey for each customer. From the moment you arrive on the site, it feels as though you’ve stepped into a local shop with a knowledgeable owner who understands your tastes and needs. The website offers curated collections based on your interests, purchase history, and browsing patterns, ensuring that you discover products that are relevant and meaningful to you. This is much like the way a neighborhood shopkeeper would recommend items they know you’ll love based on previous conversations.
           </p>
         </div>
       </div>
@@ -49,7 +49,7 @@ const ArticlesSection = () => {
         <div className="article-content">
           <h3>Our Collection</h3>
           <p>
-          At ShopSphere, we pride ourselves on offering a diverse and thoughtfully curated collection of products that cater to all your needs, interests, and passions. Our e-commerce platform is more than just a marketplace—it’s a destination where you can discover handpicked items across a wide range of categories, all designed to enhance your lifestyle and reflect your unique taste.From the latest fashion trends to innovative tech gadgets, home décor that inspires, and health and fitness products that keep you active, ShopSphere brings together an array of collections that are constantly updated to stay fresh, relevant, and exciting. Each category is carefully curated to ensure quality, style, and value, making it easy for you to find the perfect product, whether you're shopping for yourself or someone special.
+          At DailyNeeds, we pride ourselves on offering a diverse and thoughtfully curated collection of products that cater to all your needs, interests, and passions. Our e-commerce platform is more than just a marketplace—it’s a destination where you can discover handpicked items across a wide range of categories, all designed to enhance your lifestyle and reflect your unique taste.From the latest fashion trends to innovative tech gadgets, home décor that inspires, and health and fitness products that keep you active, DailyNeeds brings together an array of collections that are constantly updated to stay fresh, relevant, and exciting. Each category is carefully curated to ensure quality, style, and value, making it easy for you to find the perfect product, whether you're shopping for yourself or someone special.
           </p>
         </div>
       </div>
